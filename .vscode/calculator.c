@@ -14,7 +14,7 @@ main()
             scanf("%d",&operator);
             switch(operator)
             {
-                case 1 : printf("SUM OF %f and %f is %f",num1,num2,num1+num2);
+                case 1 : printf("SUM OF %f and %f is %f",num1,num2,num1+num2);//                      
                 break;
                 case 2 : printf("sub of %f and %f is %f",num1,num2,num1-num2);
                 break;
